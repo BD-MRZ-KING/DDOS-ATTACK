@@ -11,8 +11,8 @@ from banks to news websites, and present a major challenge to making sure people
 
 ### Dwonload&Install
 
-. git clone https://github.com/BD-MRZ-KING/DDOS-ATTACK
+git clone https://github.com/BD-MRZ-KING/DDOS-ATTACK
 
-. cd DDOS-ATTACK
+cd DDOS-ATTACK
 
-. python2 ddos-attack_mrz.py
+python2 ddos-attack_mrz.py
