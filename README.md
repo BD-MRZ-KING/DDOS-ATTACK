@@ -7,7 +7,7 @@
 by overwhelming it with traffic from multiple sources. They target a wide variety of important resources
 from banks to news websites, and present a major challenge to making sure people can publish and access important information
 
-![]()
+![](https://github.com/BD-MRZ-KING/DDOS-ATTACK/blob/main/IMG_20220616_012329.jpg)
 
 ### Dwonload&Install
 
